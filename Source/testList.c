@@ -9,7 +9,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-#include <list.h>
+#include "list.h"
 
 typedef struct
 {
